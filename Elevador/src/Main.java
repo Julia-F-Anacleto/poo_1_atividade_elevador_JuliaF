@@ -1,5 +1,5 @@
 public class Main {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Elevador e1 = new Elevador(false, 0, 10, 0);
         //Escolha quantos andares você deseja subir ou descer
         e1.descer(2);
